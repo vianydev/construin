@@ -42,8 +42,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Code: [Solution URL](https://github.com/vianydev/construin)
+- Live Site URL: [Live site URL](https://vianydev.github.io/construin/)
 
 ## My process
 
